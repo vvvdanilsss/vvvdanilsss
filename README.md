@@ -17,8 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Contacts
-<a href="https://t.me/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
-<a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
+<div><a href="https://t.me/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+<a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a></div>
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvdanilsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

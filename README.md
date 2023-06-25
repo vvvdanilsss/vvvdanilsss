@@ -20,4 +20,9 @@
 <a href="https://t.me/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
 <a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/>
 
+## Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvdanilsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Machine-learning)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Project-DrawHomeAI)](https://github.com/anuraghazra/github-readme-stats)

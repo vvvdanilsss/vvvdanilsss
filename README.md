@@ -1,4 +1,5 @@
 # Hi there, I'm Danila
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### Student of the Faculty of Photonics at ITMO University
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

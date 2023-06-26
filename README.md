@@ -28,6 +28,7 @@
 ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvdanilsss&layout=compact&theme=dark)
 
-## Main projects
+## Main projects 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Deep-learning&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Machine-learning&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Project-DrawHomeAI&theme=dark)

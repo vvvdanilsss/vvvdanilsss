@@ -24,7 +24,7 @@
   </a>
     </a>
   <a href="https://stepik.org/users/315530247/profile" target="_blank" rel="noreferrer">
-    <img align="left" alt="VK" width="36px" src="https://commons.wikimedia.org/wiki/File:Stepik_logotype.png"/>
+    <img align="left" alt="Stepik" width="36px" src="https://commons.wikimedia.org/wiki/File:Stepik_logotype.png"/>
   </a>
 </p>
 <br />

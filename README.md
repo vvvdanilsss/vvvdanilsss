@@ -22,6 +22,10 @@
   <a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer">
     <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/>
   </a>
+    </a>
+  <a href="https://stepik.org/users/315530247/profile" target="_blank" rel="noreferrer">
+    <img align="left" alt="VK" width="36px" src="https://commons.wikimedia.org/wiki/File:Stepik_logotype.png"/>
+  </a>
 </p>
 <br />
 

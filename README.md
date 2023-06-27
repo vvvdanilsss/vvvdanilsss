@@ -30,7 +30,7 @@
 <br />
 
 ## Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)
 
 ## Main projects 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Deep-learning&theme=dark)

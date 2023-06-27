@@ -17,14 +17,14 @@
 ## Contacts
 <p align="left">
   <a href="https://t.me/vvvdanilsss" target="_blank" rel="noreferrer">
-    <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/>
+    <img align="left" alt="Telegram" width="36px" src="TG-Logo.png"/>
   </a>
   <a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer">
-    <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/>
+    <img align="left" alt="VK" width="36px" src="VK-Logo.png"/>
   </a>
     </a>
   <a href="https://stepik.org/users/315530247/profile" target="_blank" rel="noreferrer">
-    <img align="left" alt="Stepik" width="36px" src="640px-Stepik_logotype.png"/>
+    <img align="left" alt="Stepik" width="36px" src="Stepik-Logo.png"/>
   </a>
 </p>
 <br />

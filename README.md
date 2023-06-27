@@ -17,7 +17,7 @@
 ## Contacts
 <p align="left">
   <a href="https://t.me/vvvdanilsss" target="_blank" rel="noreferrer">
-    <img align="left" alt="Telegram" width="36px" src="TG-Logo.png"/>
+    <img align="left" alt="Telegram" width="36px" src="Telegram-Logo.png"/>
   </a>
   <a href="https://vk.com/vvvdanilsss" target="_blank" rel="noreferrer">
     <img align="left" alt="VK" width="36px" src="VK-Logo.png"/>

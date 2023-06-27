@@ -22,7 +22,8 @@
   <a href="https://stepik.org/users/315530247/profile" target="_blank" rel="noreferrer">
     <img align="left" alt="Stepik" width="36px" src="Stepik-Logo.png"/>
   </a>
-</p><br />
+</p>
+<br />
 ## Statistics
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)<br />
 ## Main projects 

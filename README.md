@@ -27,9 +27,9 @@
 </p><br />
 
 ## Statistics
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)<br />
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)](https://git.io/streak-stats)<br />
 
-## Main projects 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Deep-learning&theme=dark)<br />
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Machine-learning&theme=dark)<br />
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Project-DrawHomeAI&theme=dark)<br />
+## Main projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Deep-learning&theme=dark)](https://github.com/vvvdanilsss/Deep-learning)<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Machine-learning&theme=dark)](https://github.com/vvvdanilsss/Machine-learning)<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Project-DrawHomeAI&theme=dark)](https://github.com/vvvdanilsss/Project-DrawHomeAI)<br />

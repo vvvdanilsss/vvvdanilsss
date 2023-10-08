@@ -27,7 +27,15 @@
 </p><br />
 
 ## Statistics
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=false)](https://git.io/streak-stats)<br />
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vvvdanilsss&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvdanilsss&theme=onedark)<br />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vvvdanilsss&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvvdanilsss&theme=onedark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvvdanilsss&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvvdanilsss&theme=onedark)<br />
 
 ## Main projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vvvdanilsss&repo=Deep-learning&theme=dark)](https://github.com/vvvdanilsss/Deep-learning)<br />
